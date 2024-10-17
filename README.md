@@ -1,4 +1,4 @@
-# Hello! I'm Gabriel Maranhão 👋
+# Hello! I'm Gabriel Maranhão </> 👋
 ## Computer Science Student | Front-End Developer
 
 ### Contact:
